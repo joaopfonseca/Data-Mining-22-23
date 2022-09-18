@@ -1,1 +1,0 @@
-This file is for demonstrating git and will be removed.
